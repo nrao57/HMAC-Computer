@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="HMACcomputer:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/HMACcomputer_jar</output-path>
+    <root id="archive" name="HMACcomputer.jar">
+      <element id="module-output" name="HMACcomputer" />
+    </root>
+  </artifact>
+</component>
