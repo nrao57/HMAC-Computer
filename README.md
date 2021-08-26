@@ -1,4 +1,6 @@
-# UTC-Converter
+# HMAC Calculator
+
+This repo creates a Jar which can calculate the HMAC Signature for a json file with a secret
 
 ## Build jar from Maven Project
 ```
